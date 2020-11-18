@@ -1,0 +1,29 @@
+table {
+    display: flex;
+    justify-content: center;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    border-left: 0px;
+    border-right: 0px;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px;
+    background-color: #D3D3D3
+}
+
+div {
+    padding-bottom: 50px;
+}
+
+#miEncabezado {
+    color: #00008B;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 2vh;
+}
